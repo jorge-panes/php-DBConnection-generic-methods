@@ -9,7 +9,6 @@ define('DB_PREFIX', 'pafj_');
 
 define('HTTP_SERVER', 'http://localhost:8888/');
 
-
 define('DIR_APPLICATION', str_replace('\'', '/', realpath(dirname(__FILE__))) . '/');
 define('DIR_SYSTEM', DIR_APPLICATION . 'system/');
 define('DIR_DATABASE', DIR_SYSTEM . 'database/');
