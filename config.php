@@ -15,3 +15,5 @@ define('DIR_SYSTEM', DIR_APPLICATION . 'system/');
 define('DIR_DATABASE', DIR_SYSTEM . 'database/');
 define('DIR_CSS', HTTP_SERVER . 'view/css/');
 define('DIR_JS', HTTP_SERVER . 'view/js/');
+
+?>
